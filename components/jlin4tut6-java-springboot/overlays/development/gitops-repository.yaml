@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: jlin4tut6-java-springboot-gitops-repository
+spec:
+  url: https://github.com/xjiangorg/jlin4tut6-java-springboot-gitops
